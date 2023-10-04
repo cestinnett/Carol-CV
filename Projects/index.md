@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Teaching Experience
+title: Projects
 ---
 
-# Teaching Experience
+# Projects
 
-## Course 1
-- Description
-- Semester Taught
+## Project 1
+- Project Description
+- Technologies Used
 
-## Course 2
-- Description
-- Semester Taught
+## Project 2
+- Project Description
+- Technologies Used
