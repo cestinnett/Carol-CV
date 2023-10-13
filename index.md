@@ -4,7 +4,7 @@ title: Carol Stinnett
 ---
 ## Hi there, I'm Carol
 
-![Featured Image](/assets/graduation.png)
+![Featured Image](/assets/headshot.jpg)
 
 
 - [Hi there, I'm Carol](#hi-there-im-carol)
