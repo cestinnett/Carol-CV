@@ -9,7 +9,7 @@ title: Carol Stinnett
 
 - [Hi there, I'm Carol](#hi-there-im-carol)
 - [About Me](#about-me)
-- [Research Interests](#research-interests)
+- [Research Aspirations](#research-aspirations)
 - [Let's Get Social](#lets-get-social)
 
 
@@ -24,7 +24,7 @@ In addition to her professional background, Carol has gained extensive knowledge
 Take a look at some of her work and feel free to get in touch. 
 
   
-## Research Interests
+## Research Aspirations
 - Digital Ethics
 - Feminist Media Studies
 - Digital Humanities
