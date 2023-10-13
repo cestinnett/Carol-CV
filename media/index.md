@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Media, News, and Web
+title: Media
 ---
 
 # Media, News, and Web
