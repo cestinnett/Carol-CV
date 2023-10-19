@@ -10,5 +10,5 @@ title: Presentations
 "Bias and Discrimination in Social Media" (presented at annual conference, September 23, 2023)
 
 
-[![image](/assets/presentation.png "Branding and Getting the Word Out")]
+[![image](/assets/presentation.png "Branding and Getting the Word Out")
 - Presented at monthly meeting, March, 8, 2023
