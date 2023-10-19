@@ -5,6 +5,8 @@ title: Media
 
 # Media, News, and Web
 
+I regularly write content pieces for various departments at the University of Central Florida. These highlight the innovative work that faculty, students, and alumni are doing. 
+
 ## UCF College of Sciences Articles
 - [Virtual Arboretum Featured at Global Film, Data Visualization Conference](https://sciences.ucf.edu/news/virtual-arboretum-featured-at-global-film-data-visualization-conference)
 - [College of Sciences Sets New Research Funding Record](https://sciences.ucf.edu/news/college-of-sciences-sets-new-research-funding-record-2/)
