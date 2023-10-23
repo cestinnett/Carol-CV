@@ -27,9 +27,9 @@ Content Marketing Manager, Ascentus LLC, 2016 -- 2017
 
 Content Writing and Editing Strategist, Chatter Buzz Media, 2015 -- 2016
 
-Community Services Coordinator, Parrish Medical Center, 2014 2015
+Community Services Coordinator, Parrish Medical Center, 2014 -- 2015
 
-Marketing Specialist, AVT Simulation, 2013--2014
+Marketing Specialist, AVT Simulation, 2013 -- 2014
 
 Communications Coordinator, QAI Global Institute, 2012 -- 2013
 
