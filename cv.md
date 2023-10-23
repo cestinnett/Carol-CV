@@ -7,6 +7,8 @@ title: CV
 
 M.A., Interdisciplinary Studies, University of Central Florida, 2022
 
+Graduate Certificate, Theoretical & Applied Ethics, University of Central Florida, 2022
+
 B.A., Advertising/Public Relations, University of Central Florida, 2008
 
 A.A., Communication, Brevard Community College [Eastern Florida State College], 2006
