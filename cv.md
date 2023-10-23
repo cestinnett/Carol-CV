@@ -9,19 +9,17 @@ M.A., Interdisciplinary Studies, University of Central Florida, 2022
 
 B.A., Advertising/Public Relations, University of Central Florida, 2008
 
-A.A., Communication, Eastern Florida State College, 2006
+A.A., Communication, Brevard Community College [Eastern Florida State College], 2006
 
 ## LEADERSHIP APPOINTMENTS
+
+Senior Marketing Manager, Fidelity Investments, 2022 -- Present
 
 Web Content Manager, Marketing and Communications Department, UCF, 2020
 -- 2022
 
 Copywriter, Office of Marketing and Public Affairs, Valencia College,
 2017 -- 2020
-
-## PROFESSIONAL EXPERIENCE
-
-Senior Marketing Manager, Fidelity Investments, 2022 -- Present
 
 Content Marketing Manager, Ascentus LLC, 2016 -- 2017
 
@@ -34,6 +32,13 @@ Marketing Specialist, AVT Simulation, 2013 -- 2014
 Communications Coordinator, QAI Global Institute, 2012 -- 2013
 
 Account Manager, Shipping-and-handling.com, 2011 -- 2012
+
+## PRESENTATION TALKS
+
+Stinnett, C. "Bias and Discrimination in Social Media." Greater Orlando Black Child Development Institute: Stay and Arriving Alive—Our
+Children, Our Present. September 23, 2023
+
+Stinnett, C. "Branding and Getting the Word Out." Greater Orlando Black Child Development Institute, monthly meeting. March 8, 2023
 
 ## MEDIA, NEWS, AND WEB
 
@@ -77,33 +82,6 @@ Stinnett, C. (n.d.). *The Importance of Education for Individuals of All Ages*. 
 Stinnett, C. (n.d.). *Getting Real: New Hologram Technology at UCF Advance Healthcare Education*. Pegasus Magazine. Retrieved October 11,
 2023, from [https://www.ucf.edu/pegasus/getting-real/](https://www.ucf.edu/pegasus/getting-real/)
 
-## PRESENTATION TALKS
-
-Stinnett, C. "Bias and Discrimination in Social Media." Greater Orlando Black Child Development Institute: Stay and Arriving Alive—Our
-Children, Our Present. September 23, 2023
-
-Stinnett, C. "Branding and Getting the Word Out." Greater Orlando Black Child Development Institute, monthly meeting. March 8, 2023
-
-## TECHNICAL SKILLS
-
-Adobe Creative Suite
-
-**CMS platforms**, WordPress, HubSpot, Drupal, Wix, Magento
-
-**CRM software**, Salesforce, Pipedrive, Monday.com, Oracle, Zendesk
-
-**SEO platforms**, Ahrefs, Semrush, Google Search Console, Yoast
-
-**Project management software**, Jira, Workfront, Basecamp, Wrike
-
-## PROFESSIONAL DEVELOPMENT
-
-Professional Certified Marketer, American Marketing Association, 2014 --Present
-
-## SERVICE
-
-2023\. Member, Greater Orlando Black Child Development Institute.
-
 ## AWARDS
 
 2023\. Fidelity Investments Excellence in Action Team Award.
@@ -113,3 +91,24 @@ Professional Certified Marketer, American Marketing Association, 2014 --Present
 2014\. AVT Simulation Exemplary Service Award.
 
 2009\. East Orlando Chamber of Commerce Volunteer of the Year.
+
+## TECHNICAL SKILLS
+
+**Graphic Design:** Adobe Creative Suite
+
+**Content Management Systems:** WordPress, HubSpot, Drupal, Wix, Magento
+
+**Customer Relationship Management Software:** Salesforce, Pipedrive, Monday.com, Oracle, Zendesk
+
+**Search Engine Optimization:** Ahrefs, Semrush, Google Search Console, Yoast
+
+**Project Management Software:** Jira, Workfront, Basecamp, Wrike
+
+## PROFESSIONAL DEVELOPMENT
+
+Professional Certified Marketer, American Marketing Association, 2014 --Present
+
+## SERVICE
+
+2023\. Member, Greater Orlando Black Child Development Institute.
+
