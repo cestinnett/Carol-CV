@@ -106,6 +106,8 @@ Professional Certified Marketer, American Marketing Association, 2014 --Present
 
 ## AWARDS
 
+2023\. Fidelity Investments Excellence in Action Team Award.
+
 2016\. Chatter Buzz Media Employee of the Month.
 
 2014\. AVT Simulation Exemplary Service Award.
