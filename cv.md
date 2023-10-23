@@ -46,13 +46,17 @@ Stinnett, C. "Branding and Getting the Word Out." Greater Orlando Black Child De
 
 Stinnett, C. (2023, September 4). Virtual Arboretum Featured at Global
 Film, Data Visualization Conference. *College of Sciences News*.
+
 [https://sciences.ucf.edu/news/virtual-arboretum-featured-at-global-film-data-visualization-conference](https://sciences.ucf.edu/news/virtual-arboretum-featured-at-global-film-data-visualization-conference/)
 
-Stinnett, C. (2023, July 19). College of Sciences Sets New Research Funding Record. *College of Sciences News*. [https://sciences.ucf.edu/news/college-of-sciences-sets-new-research-funding-record-2/](https://sciences.ucf.edu/news/college-of-sciences-sets-new-research-funding-record-2/)
+Stinnett, C. (2023, July 19). College of Sciences Sets New Research Funding Record. *College of Sciences News*. 
+[https://sciences.ucf.edu/news/college-of-sciences-sets-new-research-funding-record-2/](https://sciences.ucf.edu/news/college-of-sciences-sets-new-research-funding-record-2/)
 
-Stinnett, C. (2023, July 11). Fluid Dynamics Research Prize Awarded to Mathematics and Physics Professor. *College of Sciences News*. [https://sciences.ucf.edu/news/fluid-dynamics-research-prize-awarded-to-mathematics-and-physics-professor/](https://sciences.ucf.edu/news/fluid-dynamics-research-prize-awarded-to-mathematics-and-physics-professor/)
+Stinnett, C. (2023, July 11). Fluid Dynamics Research Prize Awarded to Mathematics and Physics Professor. *College of Sciences News*. 
+[https://sciences.ucf.edu/news/fluid-dynamics-research-prize-awarded-to-mathematics-and-physics-professor/](https://sciences.ucf.edu/news/fluid-dynamics-research-prize-awarded-to-mathematics-and-physics-professor/)
 
-Stinnett, C. (2023, May 25). Underground Carbon Deposits Unlock Climate Change Insights. *College of Sciences News*. [https://sciences.ucf.edu/news/underground-carbon-deposits-unlock-climate-change-insights/](https://sciences.ucf.edu/news/underground-carbon-deposits-unlock-climate-change-insights/)
+Stinnett, C. (2023, May 25). Underground Carbon Deposits Unlock Climate Change Insights. *College of Sciences News*. 
+[https://sciences.ucf.edu/news/underground-carbon-deposits-unlock-climate-change-insights/](https://sciences.ucf.edu/news/underground-carbon-deposits-unlock-climate-change-insights/)
 
 Stinnett, C. (2023, May 22). New Grad Heads to Paris For Doctoral Degree. *College of Sciences News*.
 [https://sciences.ucf.edu/news/new-grad-heads-to-paris-for-doctoral-degree/](https://sciences.ucf.edu/news/new-grad-heads-to-paris-for-doctoral-degree/)
