@@ -2,10 +2,6 @@
 layout: default
 title: CV
 ---
-Carol Stinnett
-PhD Student, Texts & Technology
-University of Central Florida
-cstinnett.pcm@gmail.com
 
 ## EDUCATION
 
