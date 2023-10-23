@@ -44,42 +44,40 @@ Stinnett, C. "Branding and Getting the Word Out." Greater Orlando Black Child De
 
 ## MEDIA, NEWS, AND WEB
 
-Stinnett, C. (2023, September 4). Virtual Arboretum Featured at Global
-Film, Data Visualization Conference. *College of Sciences News*.
-
+Stinnett, C. (2023, September 4). Virtual Arboretum Featured at Global Film, Data Visualization Conference. *College of Sciences News*. <br/>
 [https://sciences.ucf.edu/news/virtual-arboretum-featured-at-global-film-data-visualization-conference](https://sciences.ucf.edu/news/virtual-arboretum-featured-at-global-film-data-visualization-conference/)
 
-Stinnett, C. (2023, July 19). College of Sciences Sets New Research Funding Record. *College of Sciences News*. 
+Stinnett, C. (2023, July 19). College of Sciences Sets New Research Funding Record. *College of Sciences News*. <br/>
 [https://sciences.ucf.edu/news/college-of-sciences-sets-new-research-funding-record-2/](https://sciences.ucf.edu/news/college-of-sciences-sets-new-research-funding-record-2/)
 
-Stinnett, C. (2023, July 11). Fluid Dynamics Research Prize Awarded to Mathematics and Physics Professor. *College of Sciences News*. 
+Stinnett, C. (2023, July 11). Fluid Dynamics Research Prize Awarded to Mathematics and Physics Professor. *College of Sciences News*. <br/>
 [https://sciences.ucf.edu/news/fluid-dynamics-research-prize-awarded-to-mathematics-and-physics-professor/](https://sciences.ucf.edu/news/fluid-dynamics-research-prize-awarded-to-mathematics-and-physics-professor/)
 
-Stinnett, C. (2023, May 25). Underground Carbon Deposits Unlock Climate Change Insights. *College of Sciences News*. 
+Stinnett, C. (2023, May 25). Underground Carbon Deposits Unlock Climate Change Insights. *College of Sciences News*. <br/>
 [https://sciences.ucf.edu/news/underground-carbon-deposits-unlock-climate-change-insights/](https://sciences.ucf.edu/news/underground-carbon-deposits-unlock-climate-change-insights/)
 
-Stinnett, C. (2023, May 22). New Grad Heads to Paris For Doctoral Degree. *College of Sciences News*.
+Stinnett, C. (2023, May 22). New Grad Heads to Paris For Doctoral Degree. *College of Sciences News*.<br/>
 [https://sciences.ucf.edu/news/new-grad-heads-to-paris-for-doctoral-degree/](https://sciences.ucf.edu/news/new-grad-heads-to-paris-for-doctoral-degree/)
 
-Stinnett, C. (2021, December 6). *Graduating Senior Plots a Path for Environmental Justice*. University of Central Florida News | UCF Today.
+Stinnett, C. (2021, December 6). *Graduating Senior Plots a Path for Environmental Justice*. University of Central Florida News | UCF Today.<br/>
 [https://www.ucf.edu/news/graduating-senior-plots-a-path-for-environmental-justice/](https://www.ucf.edu/news/graduating-senior-plots-a-path-for-environmental-justice/)
 
-Stinnett, C. (2021, December 1). *Orlando Recognized as Best College City in Florida, No. 4 in Nation.* University of Central Florida News | UCF Today.
+Stinnett, C. (2021, December 1). *Orlando Recognized as Best College City in Florida, No. 4 in Nation.* University of Central Florida News | UCF Today.<br/>
 [https://www.ucf.edu/news/orlando-recognized-as-best-college-city-in-florida-no-4-in-nation/](https://www.ucf.edu/news/orlando-recognized-as-best-college-city-in-florida-no-4-in-nation/)
 
-Stinnett, C. (2021, November 10). *From Foster Care Youth to Community Advocate*. University of Central Florida News | UCF Today.
+Stinnett, C. (2021, November 10). *From Foster Care Youth to Community Advocate*. University of Central Florida News | UCF Today.<br/>
 [https://www.ucf.edu/news/from-foster-care-youth-to-community-advocate/](https://www.ucf.edu/news/from-foster-care-youth-to-community-advocate/)
 
-Stinnett, C. (2021, October 25). *UCF Student Adds Magical Touch to Disney's 50th Anniversary*. University of Central Florida News | UCF Today.
+Stinnett, C. (2021, October 25). *UCF Student Adds Magical Touch to Disney's 50th Anniversary*. University of Central Florida News | UCF Today.<br/>
 [https://www.ucf.edu/news/ucf-student-adds-magical-touch-to-disneys-50th-anniversary/](https://www.ucf.edu/news/ucf-student-adds-magical-touch-to-disneys-50th-anniversary/)
 
-Stinnett, C. (2021, October 22). *UCF Grad Helps Bring Visions to Life for FX Network*. University of Central Florida News | UCF Today.
+Stinnett, C. (2021, October 22). *UCF Grad Helps Bring Visions to Life for FX Network*. University of Central Florida News | UCF Today.<br/>
 [https://www.ucf.edu/news/ucf-grad-helps-bring-visions-to-life-for-fx-network/](https://www.ucf.edu/news/ucf-grad-helps-bring-visions-to-life-for-fx-network/)
 
-Stinnett, C. (2021, August 10). *UCF Professor Retires After 52 Years in Education*. University of Central Florida News | UCF Today.
+Stinnett, C. (2021, August 10). *UCF Professor Retires After 52 Years in Education*. University of Central Florida News | UCF Today.<br/>
 [https://www.ucf.edu/news/ucf-professor-retires-after-52-years-in-education/](https://www.ucf.edu/news/ucf-professor-retires-after-52-years-in-education/)
 
-Stinnett, C. (2021, August 5). *Knight Teacher Completes Degree While Helping Community*. University of Central Florida News | UCF Today.
+Stinnett, C. (2021, August 5). *Knight Teacher Completes Degree While Helping Community*. University of Central Florida News | UCF Today.<br/>
 [https://www.ucf.edu/news/knight-teacher-completes-degree-while-helping-community/](https://www.ucf.edu/news/knight-teacher-completes-degree-while-helping-community/)
 
 Stinnett, C. (n.d.). *The Importance of Education for Individuals of All Ages*. Pegasus Magazine. Retrieved October 11, 2023, from
