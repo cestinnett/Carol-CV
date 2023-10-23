@@ -1,3 +1,8 @@
+---
+layout: default
+title: CV
+---
+
 PhD Student, Texts & Technology
 
 University of Central Florida
